@@ -1,6 +1,7 @@
 # AlarmClock
 
 Creating a Use Case Diagram for Software Engineering
+
 Dalton Burge
 
 *Suppose we want to develop software for an alarm clock.*
@@ -11,3 +12,4 @@ Dalton Burge
 
 *Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)*
 
+![alt text](https://github.com/daltonab/AlarmClock/blob/master/AlarmClockUseCase.jpeg "Use Case")
